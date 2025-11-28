@@ -1,0 +1,26 @@
+[  
+  {  
+    "id": "filter01",  
+    "name": "Air Filter - 16x25x1",  
+    "description": "High-efficiency HVAC air filter for residential use.",  
+    "price": 14.99,  
+    "image": "/images/filter01.jpg",  
+    "stock": 120  
+  },  
+  {  
+    "id": "thermostat01",  
+    "name": "Smart Thermostat",  
+    "description": "Programmable Wi-Fi thermostat compatible with most systems.",  
+    "price": 124.99,  
+    "image": "/images/thermostat01.jpg",  
+    "stock": 42  
+  },  
+  {  
+    "id": "capacitor01",  
+    "name": "Run Capacitor 45+5 MFD",  
+    "description": "Dual run capacitor suitable for most AC units.",  
+    "price": 18.95,  
+    "image": "/images/capacitor01.jpg",  
+    "stock": 0  
+  }  
+]
