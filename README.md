@@ -1,1 +1,1 @@
-# airflow-cooling-ecommerce
+Conversion-focused HVAC demo funnel for Airflow Cooling & HVAC. Includes ad-to-booking journey, service paths, and an e-commerce section for AC units, smart thermostats, filters, and parts. Built for SVP Funnels portfolio with fully responsive, two-column image sections.
